@@ -20,16 +20,5 @@ To use Mini NATS in your Rust project, simply add it as a dependency in your `Ca
 mini_nats = "0.1.0"
 ``` -->
 
-Then, in your Rust code, you can use Mini NATS as follows:
 
 
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your_username/mini_nats).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
