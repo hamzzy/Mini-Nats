@@ -1,2 +1,4 @@
 # Cargo
-/target/
+.target/
+.DS_Store
+.vscode/
